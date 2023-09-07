@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jun Huang"
   avatar           : "profile.png"
-  bio              : "Ph.D., Assistant Professor"
-  location         : "Daktronics Eng Hall 125, Box 2222 Brookings, SD 57007"
+  bio              : "Ph.D., Assistant Professor \n Electrical Engineering and Computer Science \n South Dakota State University"
+  location         : "Daktronics Eng Hall 125, Box 2222 \n Brookings, SD 57007"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=H20D2WIAAAAJ"
-  email            : "Jun.Huang AT sdstate.edu"
+  email            : "Jun.Huang@sdstate.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
