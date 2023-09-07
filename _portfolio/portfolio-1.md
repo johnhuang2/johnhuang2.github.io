@@ -4,8 +4,4 @@ excerpt: "This project aims to design task offloading schemes for the Internet o
 collection: Current Research
 ---
 
----
-title: "Project 2: Resource Allocation for Device-to-Device Communications in 5G Networks"
-excerpt: "The objective of this project is to mitigate the interference in device-to-device (D2D) communications that are underlaid in and coexist with cellular communications from a resource management perspective.  Using game theory, we first designed a resource allocation mechanism for intercell D2D communications.  Specifically, the problem in which two base stations located in two neighboring cells compete for bandwidth allocation quote to a D2D link appearing in the overlapping area of the two adjacent cells was investigated.  This investigation was then extended to a new one where the game information was incomplete.  It is worth noting that the extended version revealed a better performance than the previous version (with complete/perfect information) in terms of sum rate and that it is more realistic in the sense of matching real-world scenarios.  In addition to the spectrum resources allocation, we also explored the issue of how to reduce the interference to cellular users and prolong the lifetime of the user devices in parallel by controlling the user devices’ power.  A power control algorithm was subsequently devised in the presence of simultaneous wireless information and power transfer technique, which empowers the devices to transmit data and harvest energy simultaneously.  Regarding how to use the harvested energy, a slew of online energy scheduling policies was developed based on the arrival properties of energy signals."
-collection: Current Research
----
+
