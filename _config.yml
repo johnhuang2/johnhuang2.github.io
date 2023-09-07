@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Jun Huang"
   avatar           : "profile.jpg"
-  bio              : "Ph.D., Assistant Professor\n EECS Department\n South Dakota State University"
-  location         : "Daktronics Eng Hall 125\n Box 2222 Brookings\n SD 57007"
+  bio              : "Ph.D., Assistant Professor\n EECS Department\n\n South Dakota State University"
+  location         : "Daktronics 125"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=H20D2WIAAAAJ"
