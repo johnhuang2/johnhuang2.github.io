@@ -15,8 +15,8 @@ Dr. Huang was a Visiting Scholar at Waseda University, a Research Fellow at the 
 
 Research Interest
 ======
-Machine Learning in Mobile Networks \n
-Space-Air-Ground Integrated Networks in 6G Systems\n
+Machine Learning in Mobile Networks  <br> 
+Space-Air-Ground Integrated Networks in 6G Systems  <br> 
 Cyber-Physical System
 
 
