@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "Jun Huang's Web"
-excerpt: "What's new"
+title: ""
+excerpt: "Jun Huang's Web"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Dr. Huang's new website is released!
+
 
 
 About me
