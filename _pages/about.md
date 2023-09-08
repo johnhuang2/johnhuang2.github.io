@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "Jun Huang's Web"
+excerpt: "Welcome to Jun Huang's Web"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 
 [I'm hiring Ph.D. students!](https://johnhuang2.github.io/posts/2012/08/blog-post-4/)
 
-<br /><br />
+<br />
 
 About me
 ======
