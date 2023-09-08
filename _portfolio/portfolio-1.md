@@ -1,7 +1,9 @@
 ---
-title: "Project 1: Mobile Edge Computing-empowered Task Offloading in the Internet of Vehicles (Ongoing)"
-excerpt: "<center><img src='/images/IoV.png' width='700'></center><br/>This project aims to design task offloading schemes for the Internet of Vehicles (IoV) with the assistance of mobile edge computing.  We began with an overview of in-vehicle networking, where the current in-vehicle networking technologies are summarized, compared, and analyzed.  We advocated automotive Ethernet and presented a priority-based scheduler to reduce the cost of wire harnesses and guarantee delay-constrained performance. With the Ethernet being installed in vehicles, the barrier for vehicular communications and networking is significantly lowered.  After briefly discussing the essential elements of the Internet of autonomous vehicles, such as architecture, features, and socio-technological issues, we propose a three-layer task offloading scheme for the intelligent IoV with the aim of minimizing the overall energy consumption while satisfying the delay constraint of end users.   Due to the extraordinarily complex nature of the problem in question, we will devise a deep reinforcement machine learning technique-based method.  Performance evaluations for our proposed method and their optimized variations will be conducted using real-world taxicab data in Shanghai and Hangzhou, China.  Our approach is expected to be highly practical and efficient for task offloading and intelligent caching in large-scale vehicular networks."
+title: "Project 1: Learning-Over-the-Air: When Federated Learning meets Mobile Edge Computing (Ongoing)"
+excerpt: "<h3>Issue</h3> Ubiquitous Intelligence is a leading feature of 6G technology. <br>
+          <h3>So What?</h3> It significantly impacts across multiple domains, including communications, industry, innovation, and even national security. <br>
+          <h3>Problem</h3> There is a large gap between current AI and cellular network technologies due to the widespread distribution of mobile devices and data. <br>
+          <h3>Solution?</h3> FL in MEC (How FL is deployed/applied in MEC) and MEC for FL (How MEC platform support FL) to achieve UI. <br>
+          <h3>Benefits</h3> Shaping and enhancing our day-to-day experience and the country keep leading technological innovation worldwide."
 collection: Current Research
 ---
-
-
