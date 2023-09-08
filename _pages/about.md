@@ -8,12 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<br />
-
-[I'm hiring Ph.D. students!](https://johnhuang2.github.io/posts/2012/08/blog-post-4/)
-
-<br />
-
 About me
 ======
 Jun Huang (M’12-SM’16) received a Ph.D. degree (with honors) from the Institute of Network Technology, Beijing University of Posts and Telecommunications, China, in 2012. He is now an Assistant Professor in the Department of Electrical Engineering and Computer Science (EECS) at South Dakota State University. Before that, he was a Non-tenure track faculty member at Baylor University. He held a full professor appointment at Northwestern Polytechnical University and Chongqing University of Posts and Telecommunications from 2015 to 2021.
