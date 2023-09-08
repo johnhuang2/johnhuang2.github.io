@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to Jun Huang's Web"
+title                    : "Jun Huang's Web"
 title_separator          : "-"
 name                     : &name "Jun Huang"
 description              : &description "personal description"
