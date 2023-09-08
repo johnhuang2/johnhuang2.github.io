@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<br />
+
 [I'm hiring Ph.D. students!](https://johnhuang2.github.io/posts/2012/08/blog-post-4/)
 
 <br />
