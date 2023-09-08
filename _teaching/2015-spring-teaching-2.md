@@ -1,5 +1,5 @@
 ---
-title: "Software Engineering"
+title: "CSI5324: Software Engineering"
 collection: teaching
 type: "Online master course"
 permalink: /teaching/2015-spring-teaching-1
