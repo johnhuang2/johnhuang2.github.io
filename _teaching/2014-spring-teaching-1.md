@@ -8,4 +8,10 @@ date: 2012-09-01
 location: "Chongqing, China"
 ---
 
-Mainly for International students at CQUPT.
+Computer Networks for (international) undergraduates at CQUPT.
+
+Communication Systems and Simulation for International students at CQUPT.
+
+Introduction to Telecommunication Technology for (international) undergraduates.
+
+Emerging Networking Technologies for (international) undergraduates.
