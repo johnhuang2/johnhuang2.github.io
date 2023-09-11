@@ -8,10 +8,12 @@ date: 2012-09-01
 location: "Chongqing, China"
 ---
 
-Computer Networks for (international) undergraduates at CQUPT.
+From 2012 to 2020, I taught
 
-Communication Systems and Simulation for International students at CQUPT.
+<em>Computer Networks</em> for (international) undergraduates.
 
-Introduction to Telecommunication Technology for (international) undergraduates.
+<em>Communication Systems and Simulation</em> for (international) graduate students.
 
-Emerging Networking Technologies for (international) undergraduates.
+<em>Introduction to Telecommunication Technology</em> for (international) undergraduates.
+
+<em>Emerging Networking Technologies</em> for (international) undergraduates.
