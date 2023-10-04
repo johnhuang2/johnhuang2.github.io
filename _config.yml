@@ -85,14 +85,14 @@ analytics:
 author:
   name             : "Jun Huang"
   avatar           : "profile.jpg"
-  bio              : "Ph.D., Assistant Professor EECS Department, South Dakota State University"
+  bio              : "Ph.D., Assistant Professor EECS Department"
   location         : "Daktronics Eng Hall 125"
-  employer         :
+  employer         : "South Dakota State University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=H20D2WIAAAAJ"
   email            : "Jun.Huang@sdstate.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "(605)688-4376"
   bitbucket        :
   codepen          :
   dribbble         :
