@@ -8,7 +8,7 @@ date: 2023-08-21
 location: "Brookings, SD"
 ---
 
-<!--  
- [Slides](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/index.html)
+ 
+ <!-- [Slides](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/index.html) -->
 
- [eBook](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf) -->
+ <!-- [eBook](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf) -->
