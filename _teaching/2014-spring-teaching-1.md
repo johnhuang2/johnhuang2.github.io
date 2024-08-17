@@ -8,8 +8,6 @@ date: 2012-09-01
 location: "Chongqing, China"
 ---
 
-From 2012 to 2020, I taught
-
 <em>Computer Networks</em> for (international) undergraduates.
 
 <em>Communication Systems and Simulation</em> for (international) graduate students.
