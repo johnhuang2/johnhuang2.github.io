@@ -8,4 +8,4 @@ tags:
   - category2
 ---
 
-I am looking for two self-motivated Ph.D. students working on Federated Learning in Wireless Networking and Mobile Computing areas. Two (Research/Teaching) Assistantships are available. Please email me your CV. More information can be found [here](https://catalog.sdstate.edu/preview_program.php?catoid=48&poid=10990).
+I am looking for two self-motivated Ph.D. students working on Federated Learning in Wireless Networking and Mobile Computing areas starting in 2025 Spring/Fall. Two (Research/Teaching) Assistantships are available. Please email me your CV. More information can be found [here](https://catalog.sdstate.edu/preview_program.php?catoid=48&poid=10990).
