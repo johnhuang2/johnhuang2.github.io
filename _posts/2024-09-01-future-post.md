@@ -1,7 +1,7 @@
 ---
 title: 'Two Ph.D. Openings'
 date: 2024-09-01
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/2024/09/blog-post-1/
 tags:
   - cool posts
   - category1
