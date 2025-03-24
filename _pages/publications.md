@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## AI in Wireless Networks ##
+## ML in Wireless Networks ##
 
 [1] J. Huang, B. Wu, Q. Duan, L. Dong and S. Yu, "A Fast UAV Trajectory Planning Framework in RIS-assisted Communication Systems with Accelerated Learning via Multithreading and Federating," **IEEE Transactions on Mobile Computing**, 2025, doi: 10.1109/TMC.2025.3544903.
 
