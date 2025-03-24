@@ -9,7 +9,7 @@ author_profile: true
 
 [1] J. Huang, B. Wu, Q. Duan, L. Dong and S. Yu, "A Fast UAV Trajectory Planning Framework in RIS-assisted Communication Systems with Accelerated Learning via Multithreading and Federating," **IEEE Transactions on Mobile Computing**, 2025, doi: 10.1109/TMC.2025.3544903.
 
-[2] Q. Duan, J. Huang, S. Hu, R. Deng, Z. Lu, and S. Yu, “Combining Federated Learning and Edge Computing toward Ubiquitous Intelligence in 6G Network: Challenges, Recent Advances, and Future Directions,” **IEEE Communications on Survey and Tutorial**, vol. 25, no. 4, pp. 2892-2950, Fourthquarter 2023.
+[2] Q. Duan, J. Huang, S. Hu, R. Deng, Z. Lu, and S. Yu, “Combining Federated Learning and Edge Computing toward Ubiquitous Intelligence in 6G Network: Challenges, Recent Advances, and Future Directions,” **IEEE Communications on Survey & Tutorial**, vol. 25, no. 4, pp. 2892-2950, Fourthquarter 2023.
 
 [3] J. Huang, C. Xing, S. Gu, and E. Baker, “Drop Maslow’s Hammer or Not: Machine Learning for Resource Management in D2D Communications,” **ACM Applied Computing Review**, vol. 22, no. 1, pp. 5-14, March 2022.
 
