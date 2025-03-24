@@ -1,10 +1,27 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
 
+# AI in Wireless Networks #
+
+[1] J. Huang, B. Wu, Q. Duan, L. Dong and S. Yu, "A Fast UAV Trajectory Planning Framework in RIS-assisted Communication Systems with Accelerated Learning via Multithreading and Federating," *IEEE Transactions on Mobile Computing*, 2025, doi: 10.1109/TMC.2025.3544903.
+
+[2] Q. Duan, J. Huang, S. Hu, R. Deng, Z. Lu, and S. Yu, “Combining Federated Learning and Edge Computing toward Ubiquitous Intelligence in 6G Network: Challenges, Recent Advances, and Future Directions,” *IEEE Communications on Survey and Tutorial*, vol. 25, no. 4, pp. 2892-2950, Fourthquarter 2023.
+
+[3] J. Huang, C. Xing, S. Gu, and E. Baker, “Drop Maslow’s Hammer or Not: Machine Learning for Resource Management in D2D Communications,” *ACM SIGAPP Applied Computing Review*, vol. 22, no. 1, pp. 5-14, March 2022.
+
+[4] B. Gu, M. Alazab, Z. Lin, X. Zhang, and J. Huang, “AI-enabled Task offloading for Improving Quality of Computational Experience in Ultra Dense Networks,’’ *ACM Transactions on Internet Technology*, vol. 22, no. 3, 17 pages, March 2022.
+
+
+# Task Offloading in MEC #
+
+
+
+
+<!---
 2023
 
 [J85] J. Huang and C. Xing, “Energy-efficient Mode Selection for SWIPT-enabled D2D Communications with Imperfect CSI: Analysis and Mechanism Design,” IEEE Transactions on Wireless Communications, 2023, R2.
@@ -31,7 +48,7 @@ author_profile: true
 
 2020
 
-[J76] X. Su, L. Meng, and J. Huang, “Intelligent Maritime Networking With Edge Services and Computing Capability,’’ IEEETransactionson Vehicular Technology, vol. 69, no. 11, pp. 13606-13620, Nov. 2020.
+[J76] X. Su, L. Meng, and J. Huang, “Intelligent Maritime Networking With Edge Services and Computing Capability,’’ IEEE Transactionson Vehicular Technology, vol. 69, no. 11, pp. 13606-13620, Nov. 2020.
 
 [J75] J. Huang, B. Yu, C. Xing, T. Cerny, and Z. Ning, “Online Energy Scheduling Policies in Energy Harvesting Enabled D2D Communications,’’ IEEE Transactions on Industrial Informatics, vol. 17, no. 8, pp. 5678-5687, Aug. 2021.
 
@@ -41,7 +58,7 @@ author_profile: true
 
 [J72] Z. Ning, K. Zhang, X. Wang, L. Guo, X. Hu, J. Huang, B. Hu, and R. Y. K. Kwok, “Intelligent Edge Computing in Internet of Vehicles: A Joint Computation Offloading and Caching Solution,’’ IEEE Transactions on Intelligent Transportation Systems, vol. 22, no. 4, pp. 2212-2225, Apr. 2021.
 
-[J71] Z. Ning, P. Dong, X. Wang, M. S. Obaidat, X. Hu, L. Guo, Y. Guo, J. Huang, B. Hu, and Y. Li, “When Deep Reinforcement Learning Meets 5G- Enabled Vehicular Networks: A Distributed Offloading Framework for Traffic Big Data,’’ IEEE Transactions on Industrial Informatics, vol. 16, no. 2, pp. 1352-1361, Feb. 2020.
+[J71] Z. Ning, P. Dong, X. Wang, M. S. Obaidat, X. Hu, L. Guo, Y. Guo, J. Huang, B. Hu, and Y. Li, “When Deep Reinforcement Learning Meets 5G-Enabled Vehicular Networks: A Distributed Offloading Framework for Traffic Big Data,’’ IEEE Transactions on Industrial Informatics, vol. 16, no. 2, pp. 1352-1361, Feb. 2020.
 
 [C55] J. Huang, G. Wang, and C. Xing, “POET: An Energy-efficient Resource Management Mechanism for One-to-Many D2D Communications,’’ in Proc. WCNC 2020, Seoul, Korea, pp. 1-6, Apr. 2020.
 
@@ -334,3 +351,5 @@ in Proc. ACM RACS 2014, Baltimore, Maryland, pp. 174-179, Oct. 2014.
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+-->
