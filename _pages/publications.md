@@ -76,11 +76,9 @@ author_profile: true
 
 [1] Q. Wang, H. Jiang, Y. Jiang, S. Yi, L. Li, C. Xing, and J. Huang, “On Searching Multiple Disjoint Shortest Paths in Scale-Free Networks with Hyperbolic Geometry,” **IEEE Transactions on Network Science and Engineering**, vol. 9, no. 4, pp. 2772-2785, July-Aug. 2022.
 
-[2] J. Huang, S. Li, and Q. Duan, “Constructing multicast routing tree for inter-cloud data transmission: an approximation algorithmic perspective,’’ **IEEE/CAA Journal of Automatica Sinica**, vol. 5, no. 2, pp. 514-522, Mar. 2018.
+[2] J. Huang, Q. Duan, Q. Chen, Y. Sun, Y. Tanaka, and W. Wang, “Guaranteeing End-to-End Quality-of-Service with A Generic Routing Approach,’’ **ACM Applied Computing Review**, vol. 14, no. 2, pp. 8-22, June 2014.
 
-[3] J. Huang, Q. Duan, Q. Chen, Y. Sun, Y. Tanaka, and W. Wang, “Guaranteeing End-to-End Quality-of-Service with A Generic Routing Approach,’’ **ACM Applied Computing Review**, vol. 14, no. 2, pp. 8-22, June 2014.
-
-[4] J. Huang, C. Xu, Q. Duan, Y. Ma, and G.-M. Muntean, “Novel End-to-End Quality of Service Provisioning Algorithms for Multimedia Services in Virtualization-based Future Internet,’’ **IEEE Transactions on Broadcasting**, vol. 58, no. 4, pp. 569-579, Dec. 2012.
+[3] J. Huang, C. Xu, Q. Duan, Y. Ma, and G.-M. Muntean, “Novel End-to-End Quality of Service Provisioning Algorithms for Multimedia Services in Virtualization-based Future Internet,’’ **IEEE Transactions on Broadcasting**, vol. 58, no. 4, pp. 569-579, Dec. 2012.
 
 
 
