@@ -29,7 +29,7 @@ author_profile: true
 [5] J. Huang, J. Zou, and C. Xing, “Energy-efficient Mode Selection for D2D Communications in Cellular Networks,’’ **IEEE Transactions on Cognitive Communications and Networking**, vol. 4, no. 4, pp. 869-882, Oct. 2018.
 
 
-## Internet of Vehicles ##
+## Internet of Vehicles and MEC ##
 
 [1] Z. Ning, K. Zhang, X. Wang, L. Guo, X. Hu, J. Huang, B. Hu, and R. Y. K. Kwok, "Intelligent Edge Computing in Internet of Vehicles: A Joint Computation Offloading and Caching Solution," **IEEE Transactions on Intelligent Transportation Systems**, vol. 22, no. 4, pp. 2212-2225, April 2021.
 
