@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# AI in Wireless Networks #
+## AI in Wireless Networks ##
 
 [1] J. Huang, B. Wu, Q. Duan, L. Dong and S. Yu, "A Fast UAV Trajectory Planning Framework in RIS-assisted Communication Systems with Accelerated Learning via Multithreading and Federating," *IEEE Transactions on Mobile Computing*, 2025, doi: 10.1109/TMC.2025.3544903.
 
@@ -16,7 +16,7 @@ author_profile: true
 [4] B. Gu, M. Alazab, Z. Lin, X. Zhang, and J. Huang, “AI-enabled Task offloading for Improving Quality of Computational Experience in Ultra Dense Networks,’’ *ACM Transactions on Internet Technology*, vol. 22, no. 3, 17 pages, March 2022.
 
 
-# Task Offloading in MEC #
+## Task Offloading in MEC ##
 
 
 
