@@ -63,7 +63,7 @@ author_profile: true
 
 [3] J. Huang, J. Zou, and C. Xing, “Competitions Among Service Providers in Cloud Computing: A New Economic Model,’’ **IEEE Transactions on Network and Service Management**, vol. 15, no. 2, pp. 866-877, June 2018.
 
-[4] J. Huang, S. Li, and Q. Duan, “Constructing multicast routing tree for inter-cloud data transmission: an approximation algorithmic perspective,’’ **IEEE/CAA Journal of Automatica Sinica**, vol. 5, no. 2, pp. 514-522, Mar. 2018.
+[4] J. Huang, S. Li, and Q. Duan, “Constructing Multicast Routing Tree for Inter-Cloud Data Transmission: An Approximation Algorithmic Perspective,’’ **IEEE/CAA Journal of Automatica Sinica**, vol. 5, no. 2, pp. 514-522, Mar. 2018.
 
 [5] G. Wang, Y. Zhao, J. Huang, and W. Wang, “The Controller Placement Problem in Software Deﬁned Networking: A Survey,’’ **IEEE Network**, vol. 31, no. 5, pp. 21-27, 2017.
 
