@@ -20,11 +20,13 @@ author_profile: true
 
 [1] Z. Ning, K. Zhang, X. Wang, L. Guo, X. Hu, J. Huang, B. Hu, and R. Y. K. Kwok, "Intelligent Edge Computing in Internet of Vehicles: A Joint Computation Offloading and Caching Solution," IEEE Transactions on Intelligent Transportation Systems, vol. 22, no. 4, pp. 2212-2225, April 2021.
 
-[2] Z. Ning, P. Dong, X. Wang, L. Guo, J. Rodrigues, X. Kong, J. Huang, and R. Y. K. Kwok, “Deep Reinforcement Learning for Intelligent Internet of Vehicles: An Energy-Efficient Computational Offloading Scheme," IEEE Transactions on Cognitive Communications and Networking, vol. 5, no. 4, pp. 1060-1072, Dec. 2019.
+[2] J. Huang, M. Zhao, Y. Zhou, and C. Xing, “In-Vehicle Networking: Protocols, Challenges and Solutions,’’ IEEE Network , vol. 33, no. 1, pp. 92-98, Jan./Feb. 2019.
 
-[3] Z. Ning, J. Huang, X. Wang, J. J. P. C. Rodrigues, and L. Guo, “Mobile Edge Computing-Enabled Internet of Vehicles: Toward Energy-Efficient Scheduling,’’ IEEE Network, vol. 33, no. 5, pp. 198-205, Sept.-Oct. 2019.
+[3] Z. Ning, P. Dong, X. Wang, L. Guo, J. Rodrigues, X. Kong, J. Huang, and R. Y. K. Kwok, “Deep Reinforcement Learning for Intelligent Internet of Vehicles: An Energy-Efficient Computational Offloading Scheme," IEEE Transactions on Cognitive Communications and Networking, vol. 5, no. 4, pp. 1060-1072, Dec. 2019.
 
-[4] F. Jameel, Z. Chang, J. Huang, and T. Ristaniemi, “Internet of Autonomous Vehicles: Architecture, Features, and Socio-Technological Challenges,’’ IEEE Wireless Communications, vol. 26, no. 4, pp. 21-29, Aug. 2019.
+[4] Z. Ning, J. Huang, X. Wang, J. J. P. C. Rodrigues, and L. Guo, “Mobile Edge Computing-Enabled Internet of Vehicles: Toward Energy-Efficient Scheduling,’’ IEEE Network, vol. 33, no. 5, pp. 198-205, Sept.-Oct. 2019.
+
+[5] F. Jameel, Z. Chang, J. Huang, and T. Ristaniemi, “Internet of Autonomous Vehicles: Architecture, Features, and Socio-Technological Challenges,’’ IEEE Wireless Communications, vol. 26, no. 4, pp. 21-29, Aug. 2019.
 
 
 
