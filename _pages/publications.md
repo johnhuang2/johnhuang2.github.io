@@ -5,10 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{https://scholar.google.com/citations?user=H20D2WIAAAAJ}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 ## ML in Wireless Networks ##
 
 [1] J. Huang, B. Wu, Q. Duan, L. Dong and S. Yu, "A Fast UAV Trajectory Planning Framework in RIS-assisted Communication Systems with Accelerated Learning via Multithreading and Federating," **IEEE Transactions on Mobile Computing**, 2025, doi: 10.1109/TMC.2025.3544903.
@@ -18,7 +14,7 @@ author_profile: true
 [3] J. Huang, C. Xing, S. Gu, and E. Baker, “Drop Maslow’s Hammer or Not: Machine Learning for Resource Management in D2D Communications,” **ACM Applied Computing Review**, vol. 22, no. 1, pp. 5-14, March 2022.
 
 [4] B. Gu, M. Alazab, Z. Lin, X. Zhang, and J. Huang, “AI-enabled Task offloading for Improving Quality of Computational Experience in Ultra Dense Networks,’’ **ACM Transactions on Internet Technology**, vol. 22, no. 3, 17 pages, March 2022.
-
+---
 
 ## D2D and 5G Communications ##
 
