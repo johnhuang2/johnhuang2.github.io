@@ -77,6 +77,7 @@ author_profile: true
 [3] J. Huang, C. Xu, Q. Duan, Y. Ma, and G.-M. Muntean, “Novel End-to-End Quality of Service Provisioning Algorithms for Multimedia Services in Virtualization-based Future Internet,’’ **IEEE Transactions on Broadcasting**, vol. 58, no. 4, pp. 569-579, Dec. 2012.
 
 
+[Full Publication List@Google Scholar](https://scholar.google.com/citations?user=H20D2WIAAAAJ)
 
 <!---
 2023
