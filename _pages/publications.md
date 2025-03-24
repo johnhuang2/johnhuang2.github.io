@@ -42,6 +42,19 @@ author_profile: true
 [5] F. Jameel, Z. Chang, J. Huang, and T. Ristaniemi, “Internet of Autonomous Vehicles: Architecture, Features, and Socio-Technological Challenges,’’ **IEEE Wireless Communications**, vol. 26, no. 4, pp. 21-29, Aug. 2019.
 
 
+## Internet of Things ##
+
+[1] J. Huang, C. Xing, S. Y. Shin, F. Hou, and C. Hsu, “Optimizing M2M Communications and Quality of Services in the IoT for Sustainable Smart Cities,’’ **IEEE Transactions on Sustainable Computing**, vol. 3, no. 1, pp. 4-15, 1 Jan.-Mar. 2018.
+
+[2] J. Huang, S. Li, and Q. Duan, “Constructing multicast routing tree for inter-cloud data transmission: an approximation algorithmic perspective,’’ **IEEE/CAA Journal of Automatica Sinica**, vol. 5, no. 2, pp. 514-522, Mar. 2018.
+
+[3] J. Huang, X. Li, W. Wang, K. Hua, and S. Guo, “DTD: A Novel Double-Track Approach to Clone Detection for RFID-Enabled Supply Chains,’’ **IEEE Transactions on Emerging Topics in Computing**, vol. 5, no. 1, pp. 134-140, Jan.-Mar. 2017.
+
+[4] J. Huang, Q. Duan, Y. Zhao, Z. Zheng, and W. Wang, “Multicast Routing for Multimedia Communications in the Internet of Things,’’ **IEEE Internet of Things Journal**, vol. 4, no. 1, pp. 215-224, Feb. 2016.
+
+[5] J. Huang, Y. Meng, X. Gong, Y. Liu, and Q. Duan, “A Novel Deployment Scheme for Green Internet of Things,’’ **IEEE Internet of Things Journal**, vol. 1, no. 2, pp. 196-205, Apr. 2014.
+
+
 
 <!---
 2023
