@@ -14,7 +14,7 @@ author_profile: true
 [3] J. Huang, C. Xing, S. Gu, and E. Baker, “Drop Maslow’s Hammer or Not: Machine Learning for Resource Management in D2D Communications,” **ACM Applied Computing Review**, vol. 22, no. 1, pp. 5-14, March 2022.
 
 [4] B. Gu, M. Alazab, Z. Lin, X. Zhang, and J. Huang, “AI-enabled Task offloading for Improving Quality of Computational Experience in Ultra Dense Networks,’’ **ACM Transactions on Internet Technology**, vol. 22, no. 3, 17 pages, March 2022.
----
+
 
 ## D2D and 5G Communications ##
 
