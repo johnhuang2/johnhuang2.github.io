@@ -11,14 +11,14 @@ author_profile: true
 
 [2] Q. Duan, J. Huang, S. Hu, R. Deng, Z. Lu, and S. Yu, “Combining Federated Learning and Edge Computing toward Ubiquitous Intelligence in 6G Network: Challenges, Recent Advances, and Future Directions,” **IEEE Communications on Survey and Tutorial**, vol. 25, no. 4, pp. 2892-2950, Fourthquarter 2023.
 
-[3] J. Huang, C. Xing, S. Gu, and E. Baker, “Drop Maslow’s Hammer or Not: Machine Learning for Resource Management in D2D Communications,” **ACM SIGAPP Applied Computing Review**, vol. 22, no. 1, pp. 5-14, March 2022.
+[3] J. Huang, C. Xing, S. Gu, and E. Baker, “Drop Maslow’s Hammer or Not: Machine Learning for Resource Management in D2D Communications,” **ACM Applied Computing Review**, vol. 22, no. 1, pp. 5-14, March 2022.
 
 [4] B. Gu, M. Alazab, Z. Lin, X. Zhang, and J. Huang, “AI-enabled Task offloading for Improving Quality of Computational Experience in Ultra Dense Networks,’’ **ACM Transactions on Internet Technology**, vol. 22, no. 3, 17 pages, March 2022.
 
 
-## Device-to-Device Communications ##
+## D2D and 5G Communications ##
 
-[1] J. Huang, C. Xing, S. Gu, and E. Baker, “Drop Maslow’s Hammer or Not: Machine Learning for Resource Management in D2D Communications,” **ACM SIGAPP Applied Computing Review**, vol. 22, no. 1, pp. 5-14, March 2022.
+[1] X. Xu, Q. Chen, H. Jiang and J. Huang, "Millimeter-Wave NR-U and WiGig Coexistence: Joint User Grouping, Beam Coordination, and Power Control," **IEEE Transactions on Wireless Communications**, vol. 21, no. 4, pp. 2352-2367, April 2022.
 
 [2] J. Huang, B. Yu, C. Xing, T. Cerny, and Z. Ning, “Online Energy Scheduling Policies in Energy Harvesting Enabled D2D Communications,’’ **IEEE Transactions on Industrial Informatics**, vol. 17, no. 8, pp. 5678-5687, Aug. 2021.
 
