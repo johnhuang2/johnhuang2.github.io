@@ -37,7 +37,7 @@ author_profile: true
 
 [3] Z. Ning, P. Dong, X. Wang, L. Guo, J. Rodrigues, X. Kong, J. Huang, and R. Y. K. Kwok, “Deep Reinforcement Learning for Intelligent Internet of Vehicles: An Energy-Efficient Computational Offloading Scheme," **IEEE Transactions on Cognitive Communications and Networking**, vol. 5, no. 4, pp. 1060-1072, Dec. 2019.
 
-[4] Z. Ning, J. Huang, X. Wang, J. J. P. C. Rodrigues, and L. Guo, “Mobile Edge Computing-Enabled Internet of Vehicles: Toward Energy-Efficient Scheduling,’’ **IEEE Network**, vol. 33, no. 5, pp. 198-205, Sept.-Oct. 2019.
+[4] Z. Ning, J. Huang, X. Wang, J. P. C. Rodrigues, and L. Guo, “Mobile Edge Computing-Enabled Internet of Vehicles: Toward Energy-Efficient Scheduling,’’ **IEEE Network**, vol. 33, no. 5, pp. 198-205, Sept.-Oct. 2019.
 
 [5] F. Jameel, Z. Chang, J. Huang, and T. Ristaniemi, “Internet of Autonomous Vehicles: Architecture, Features, and Socio-Technological Challenges,’’ **IEEE Wireless Communications**, vol. 26, no. 4, pp. 21-29, Aug. 2019.
 
