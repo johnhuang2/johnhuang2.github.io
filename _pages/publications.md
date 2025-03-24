@@ -55,6 +55,21 @@ author_profile: true
 [5] J. Huang, Y. Meng, X. Gong, Y. Liu, and Q. Duan, “A Novel Deployment Scheme for Green Internet of Things,’’ **IEEE Internet of Things Journal**, vol. 1, no. 2, pp. 196-205, Apr. 2014.
 
 
+## SDN and Cloud Computing ##
+
+[1] J. Huang, Q. Duan, C. Xing, B. Gu, G. Wang, S. Zeadally, and E. Baker, “A Fine-Grained Video Traffic Control Mechanism in Software-Defined Networks,” **IEEE Transactions on Network and Service Management**, vol. 19, no. 3, pp. 3501-3515, Sept. 2022.
+
+[2] J. Huang, Q. Duan, S. Guo, Y. Yan, and S. Yu, “Converged Network-Cloud Service Composition with End-to-End Performance Guarantee,’’ **IEEE Transactions on Cloud Computing**, vol. 6, no. 2, pp. 545-557, Apr.-June 2018.
+
+[3] J. Huang, J. Zou, and C. Xing, “Competitions Among Service Providers in Cloud Computing: A New Economic Model,’’ **IEEE Transactions on Network and Service Management**, vol. 15, no. 2, pp. 866-877, June 2018.
+
+[4] J. Huang, S. Li, and Q. Duan, “Constructing multicast routing tree for inter-cloud data transmission: an approximation algorithmic perspective,’’ **IEEE/CAA Journal of Automatica Sinica**, vol. 5, no. 2, pp. 514-522, Mar. 2018.
+
+[5] G. Wang, Y. Zhao, J. Huang, and W. Wang, “The Controller Placement Problem in Software Deﬁned Networking: A Survey,’’ **IEEE Network**, vol. 31, no. 5, pp. 21-27, 2017.
+
+
+
+
 
 <!---
 2023
