@@ -16,6 +16,19 @@ author_profile: true
 [4] B. Gu, M. Alazab, Z. Lin, X. Zhang, and J. Huang, “AI-enabled Task offloading for Improving Quality of Computational Experience in Ultra Dense Networks,’’ **ACM Transactions on Internet Technology**, vol. 22, no. 3, 17 pages, March 2022.
 
 
+## Device-to-Device Communications ##
+
+[1] J. Huang, C. Xing, S. Gu, and E. Baker, “Drop Maslow’s Hammer or Not: Machine Learning for Resource Management in D2D Communications,” **ACM SIGAPP Applied Computing Review**, vol. 22, no. 1, pp. 5-14, March 2022.
+
+[2] J. Huang, B. Yu, C. Xing, T. Cerny, and Z. Ning, “Online Energy Scheduling Policies in Energy Harvesting Enabled D2D Communications,’’ **IEEE Transactions on Industrial Informatics**, vol. 17, no. 8, pp. 5678-5687, Aug. 2021.
+
+[3] J. Huang, C. Xing, and M. Guizani, “Power Allocation for D2D Communications With SWIPT,’’ **IEEE Transactions on Wireless Communications**, vol. 19, no. 4, pp. 2308-2320, Apr. 2020.
+
+[4] J. Huang, Y. Zhou, Z. Ning, and H. Gharavi, “Wireless Power Transfer and Energy Harvesting: Current Status and Future Prospects,’’ **IEEE Wireless Communications**, vol. 26, no. 4, pp. 163-169, Aug. 2019.
+
+[5] J. Huang, J. Zou, and C. Xing, “Energy-efficient Mode Selection for D2D Communications in Cellular Networks,’’ **IEEE Transactions on Cognitive Communications and Networking**, vol. 4, no. 4, pp. 869-882, Oct. 2018.
+
+
 ## Internet of Vehicles ##
 
 [1] Z. Ning, K. Zhang, X. Wang, L. Guo, X. Hu, J. Huang, B. Hu, and R. Y. K. Kwok, "Intelligent Edge Computing in Internet of Vehicles: A Joint Computation Offloading and Caching Solution," IEEE Transactions on Intelligent Transportation Systems, vol. 22, no. 4, pp. 2212-2225, April 2021.
