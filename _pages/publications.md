@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{https://scholar.google.com/citations?user=H20D2WIAAAAJ}">my Google Scholar profile</a>.</u>
+{% endif %}
+
 ## ML in Wireless Networks ##
 
 [1] J. Huang, B. Wu, Q. Duan, L. Dong and S. Yu, "A Fast UAV Trajectory Planning Framework in RIS-assisted Communication Systems with Accelerated Learning via Multithreading and Federating," **IEEE Transactions on Mobile Computing**, 2025, doi: 10.1109/TMC.2025.3544903.
