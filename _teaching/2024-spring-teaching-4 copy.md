@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate/Graduate Course"
 permalink: /teaching/2024-spring-teaching-4
 venue: "South Dakota State University, EECS Department"
-date: 2024-01-08
+date: 2024, 2025
 location: "Brookings, SD"
 ---
 
