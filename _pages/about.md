@@ -11,9 +11,9 @@ redirect_from:
 
 Research Interest
 ======
-Machine Learning in Mobile Networks  <br> 
-Space-Air-Ground Integrated Networks in 6G Systems  <br> 
-Cyber-Physical System
+Networking for AI  <br> 
+Machine Learning in NextG Networked Systems  <br> 
+Mobile Collaborative Learning
 
 
 
