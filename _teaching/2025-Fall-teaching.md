@@ -1,5 +1,5 @@
 ---
-title: "CSC492: Mobile and Cloud Computing"
+title: "CSC492/592: Mobile and Cloud Computing"
 collection: Teaching
 type: "Undergraduate"
 permalink: /teaching/2025-Fall-teaching
