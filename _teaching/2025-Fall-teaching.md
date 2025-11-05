@@ -1,7 +1,7 @@
 ---
 title: "CSC492/592: Mobile and Cloud Computing"
 collection: Teaching
-type: "Undergraduate"
+type: "Undergraduate/Graduate Course"
 permalink: /teaching/2025-Fall-teaching
 venue: "South Dakota State University, EECS Department"
 date: 2025-08-25
