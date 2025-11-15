@@ -11,9 +11,9 @@ redirect_from:
 
 Research Interest
 ======
-Networking for AI  <br> 
-Machine Learning in NextG Networked Systems  <br> 
-Mobile Collaborative Learning
+Networking for (Trustworthy) AI  <br> 
+Distributed Learning in Mobile Systems  <br> 
+Cyber-Physical System
 
 
 
