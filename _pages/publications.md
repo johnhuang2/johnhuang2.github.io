@@ -5,15 +5,20 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Networking for AI ##
+
+[1] Z. Ding, J. Huang, Q. Duan, C. Zhang, Y. Zhao, and S. Gu, "A dual-level game-theoretic approach for collaborative learning in UAV-assisted heterogeneous vehicle networks," In 2025 IEEE International Performance, Computing, and Communications Conference (IPCCC), pp. 1-8, 2025. **Best Paper Award**
+
+
 ## ML in Wireless Networks ##
 
-[1] B. Wu, J. Huang, Q. Duan, L. Dong, and Z. Cai, "Enhancing Vehicular Platooning with Wireless Federated Learning: A Resource-Aware Control Framework," **IEEE/ACM Transactions on Networking**, 2025, in print.
+[1] L. Dong, J. Huang, and R. W. Heath, "Transformer-Based Dynamic Resource Allocation for Multi-Carrier NOMA Systems," **IEEE Transactions on Cognitive Communications and Networking**, 2026, in print.
 
-[2] J. Huang, B. Wu, Q. Duan, L. Dong and S. Yu, "A Fast UAV Trajectory Planning Framework in RIS-assisted Communication Systems with Accelerated Learning via Multithreading and Federating," **IEEE Transactions on Mobile Computing**, 2025, doi: 10.1109/TMC.2025.3544903.
+[2] B. Wu, J. Huang, Q. Duan, L. Dong, and Z. Cai, "Enhancing Vehicular Platooning with Wireless Federated Learning: A Resource-Aware Control Framework," **IEEE/ACM Transactions on Networking**, 2025, in print.
 
-[3] Q. Duan, J. Huang, S. Hu, R. Deng, Z. Lu, and S. Yu, “Combining Federated Learning and Edge Computing toward Ubiquitous Intelligence in 6G Network: Challenges, Recent Advances, and Future Directions,” **IEEE Communications on Survey & Tutorial**, vol. 25, no. 4, pp. 2892-2950, Fourthquarter 2023.
+[3] J. Huang, B. Wu, Q. Duan, L. Dong and S. Yu, "A Fast UAV Trajectory Planning Framework in RIS-assisted Communication Systems with Accelerated Learning via Multithreading and Federating," **IEEE Transactions on Mobile Computing**, 2025, doi: 10.1109/TMC.2025.3544903.
 
-[4] J. Huang, C. Xing, S. Gu, and E. Baker, “Drop Maslow’s Hammer or Not: Machine Learning for Resource Management in D2D Communications,” **ACM Applied Computing Review**, vol. 22, no. 1, pp. 5-14, March 2022.
+[4] Q. Duan, J. Huang, S. Hu, R. Deng, Z. Lu, and S. Yu, “Combining Federated Learning and Edge Computing toward Ubiquitous Intelligence in 6G Network: Challenges, Recent Advances, and Future Directions,” **IEEE Communications on Survey & Tutorial**, vol. 25, no. 4, pp. 2892-2950, Fourthquarter 2023.
 
 [5] B. Gu, M. Alazab, Z. Lin, X. Zhang, and J. Huang, “AI-enabled Task offloading for Improving Quality of Computational Experience in Ultra Dense Networks,’’ **ACM Transactions on Internet Technology**, vol. 22, no. 3, 17 pages, March 2022.
 
