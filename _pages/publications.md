@@ -7,7 +7,7 @@ author_profile: true
 
 ## Networking for AI ##
 
-[1] Z. Ding, J. Huang, Q. Duan, C. Zhang, Y. Zhao, and S. Gu, "A dual-level game-theoretic approach for collaborative learning in UAV-assisted heterogeneous vehicle networks," In 2025 IEEE International Performance, Computing, and Communications Conference (IPCCC), pp. 1-8, 2025. **Best Paper Award**
+[1] Z. Ding, J. Huang, Q. Duan, C. Zhang, Y. Zhao, and S. Gu, "A dual-level game-theoretic approach for collaborative learning in UAV-assisted heterogeneous vehicle networks," In 2025 IEEE International Performance, Computing, and Communications Conference (IPCCC), pp. 1-8, 2025. (**Best Paper Award**)
 
 
 ## ML in Wireless Networks ##
