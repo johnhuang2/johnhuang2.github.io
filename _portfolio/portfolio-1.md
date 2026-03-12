@@ -5,6 +5,6 @@ excerpt: "**Funding Source:** NSF <br>
           **Total Budget:** $174,892  <br>
           **Award Number:** 2348422 <br>
           **Duration:** Oct. 2024 - Sept. 2026 <br>
-          <center><img src='/images/CRII-Scenario.png' width='600'></center><br/>"
+          <center><img src='/images/CRII-Scenario.png' width='800'></center><br/>"
 collection: Current Research
 ---
