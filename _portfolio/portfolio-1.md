@@ -1,9 +1,10 @@
 ---
-title: "Project 1: Learning-Over-the-Air: When Federated Learning meets Mobile Edge Computing (Ongoing)"
-excerpt: "**Issue.** Ubiquitous Intelligence is a leading feature of 6G technology. <br>
-          **So What?** It significantly impacts across multiple domains, including communications, industry, innovation, and even national security. <br>
-          **Problem.** There is a large gap between current AI and wireless technologies due to the widespread distribution of mobile devices and data. <br>
-          **Solution?** FL in MEC (How FL is deployed/applied in MEC) and MEC for FL (How MEC platform supports FL) to achieve UI. <br>
-          **Benefits.** Shaping and enhancing our day-to-day experience and the country's leading technological innovation worldwide."
+title: "CRII: NeTS: Resource Management for Mobile Terminal Collaboration with Incomplete Information: From Theory to Practice"
+excerpt: "**Funding Source:** NSF <br>
+          **Role:** PI
+          **Total Budget:** $174,892  <br>
+          **Award Number:** 2348422 <br>
+          **URL:** <a href="https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2348422&HistoricalAwards=false">NSF Link</a>
+          "
 collection: Current Research
 ---
