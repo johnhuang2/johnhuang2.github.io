@@ -3,7 +3,7 @@ title: "CRII: NeTS: Resource Management for Mobile Terminal Collaboration with I
 excerpt: "<center><img src='/images/CRII-Scenario.png' width='800'></center> <br>
   <center>
     <img src='/images/TAAS_Hardware.png' width='400' style='vertical-align: middle; margin-right: 20px;'>
-    <video width='15%' controls style='vertical-align: middle;'>
+    <video width='20%' controls style='vertical-align: middle;'>
       <source src='/files/CLIP_1.mp4' type='video/mp4'>
     </video>
   </center> <br>
