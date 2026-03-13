@@ -1,7 +1,7 @@
 ---
 title: "CRII: NeTS: Resource Management for Mobile Terminal Collaboration with Incomplete Information: From Theory to Practice"
 excerpt: "<center><img src='/images/CRII-Scenario.png' width='800'></center> <br>
-          <center><video width='100%' controls><source src='/files/CLIP_1.mp4' type='video/mp4'></video></center> <br>
+          <center><video width='30%' controls><source src='/files/CLIP_1.mp4' type='video/mp4'></video></center> <br>
           **Funding Source:** NSF <br>
           **Role:** PI <br>
           **Total Budget:** $174,892  <br>
