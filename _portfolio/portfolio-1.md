@@ -6,7 +6,7 @@ excerpt: "<center><img src='/images/CRII-Scenario.png' width='800'></center> <br
     <video width='20%' controls style='vertical-align: middle;'>
       <source src='/files/CLIP_1.mp4' type='video/mp4'>
     </video>
-  </center>
+  </center> <br>
           **Funding Source:** NSF <br>
           **Role:** PI <br>
           **Total Budget:** $174,892  <br>
