@@ -9,7 +9,7 @@ author_profile: true
 
 [1] Z. Ding, J. Huang, Y. Zhao, and Z. Cai, "Combating Knowledge Forgetting and Diversity in UAV-Assisted Collaborative Vehicular Learning: A Game-Theoretic Approach," **ACM Transactions on Autonomous and Adaptive Systems**, 2026, in print.
 
-[2] Z. Ding, B. Wu, and J. Huang, "SCALE: Sensitivity-Aware Federated Unlearning with Age-of-Information Optimization for Mobile Edge Computing," **IEEE ICDCS**, 2026, in print.
+[2] Z. Ding, B. Wu, and J. Huang, "SCALE: Sensitivity-Aware Federated Unlearning with Age-of-Information Optimization for Mobile Edge Computing," **IEEE ICDCS**, 2026.
 
 [3] B. Wu, J. Huang, and Y. Zhao, "From Alpha to Omega: Lifecycle-Aware Forgetting Defense in Federated Continual Learning for Planetary Exploration," **IEEE ICDCS**, 2026.
 
