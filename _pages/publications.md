@@ -5,12 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Networking for AI ##
+## Networking4AI ##
 
-[1] Z. Ding, J. Huang, Q. Duan, C. Zhang, Y. Zhao, and S. Gu, "A dual-level game-theoretic approach for collaborative learning in UAV-assisted heterogeneous vehicle networks," In 2025 IEEE International Performance, Computing, and Communications Conference (IPCCC), pp. 1-8, 2025. (**Best Paper Award**)
+[1] Z. Ding, J. Huang, Y. Zhao, and Z. Cai, "Combating Knowledge Forgetting and Diversity in UAV-Assisted Collaborative Vehicular Learning: A Game-Theoretic Approach," **ACM Transactions on Autonomous and Adaptive Systems**, 2026, in print.
+
+[2] Z. Ding, B. Wu, and J. Huang, "SCALE: Sensitivity-Aware Federated Unlearning with Age-of-Information Optimization for Mobile Edge Computing," **IEEE ICDCS**, 2026, in print.
+
+[3] B. Wu, J. Huang, and Y. Zhao, "From Alpha to Omega: Lifecycle-Aware Forgetting Defense in Federated Continual Learning for Planetary Exploration," **IEEE ICDCS**, 2026.
+
+[4] B. Wu, J. Huang, and S. Yu, "'X of Information' Continuum: A Survey on AI-Driven Multi-dimensional Metrics for Next-Generation Networked Systems," **IEEE Communications Surveys & Tutorials**, 2026, in print.
 
 
-## ML in Wireless Networks ##
+## AI4Networking ##
 
 [1] B. Wu, Z. Ding, and J. Huang, "A Review of Continual Learning in Edge AI," **IEEE Transactions on Network Science and Engineering**, 2026, in print.
 
