@@ -11,7 +11,7 @@ excerpt: "<center><img src='/images/CRII-Scenario.png' width='800'></center> <br
           **Role:** Sole PI <br>
           **Total Budget:** $175K  <br>
           **Award Number:** 2348422 <br>
-          **Duration:** Oct. 2024 -- Sept. 2026
+          **Duration:** Oct 2024 -- Sep 2026
           "
 collection: current research
 ---
