@@ -1,6 +1,6 @@
 ---
 title: "Trustworthy Federated Unlearning for Mobile Autonomous Systems"
-excerpt: 
+excerpt: |
   <center>
      <video width='30%' controls preload='metadata' playsinline style='vertical-align: middle;'>
       <source src='/files/JSAC_Demo.mp4' type='video/mp4'>
