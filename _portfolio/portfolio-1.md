@@ -3,7 +3,7 @@ title: "Trustworthy Federated Unlearning for Mobile Autonomous Systems"
 excerpt: 
   <center>
      <video width='50%' controls preload='metadata' playsinline style='vertical-align: middle;'>
-      <source src='/files/JSAC_Demo 2.mp4' type='video/mp4'>
+      <source src='/files/JSAC_Demo.mp4' type='video/mp4'>
     </video>
   </center> <br>
   **Funding Source:** SDBOR <br>
