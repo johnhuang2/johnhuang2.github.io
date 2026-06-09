@@ -1,15 +1,14 @@
 ---
 title: "Trustworthy Federated Unlearning for Mobile Autonomous Systems"
-excerpt: 
+excerpt: |
   <center>
     <video width='20%' controls style='vertical-align: middle;'>
       <source src='/files/JSAC_Demo 2.mov' type='video/mov'>
     </video>
   </center> <br>
-          **Funding Source:** SDBOR <br>
-          **Role:** Sole PI <br>
-          **Total Budget:** $90K  <br>
-          **Duration:** July 2026 -- August 2027
-          "
-collection: portfolio 
+  **Funding Source:** SDBOR <br>
+  **Role:** Sole PI <br>
+  **Total Budget:** $90K <br>
+  **Duration:** July 2026 -- August 2027
+collection: current research
 ---
