@@ -2,7 +2,7 @@
 title: "Trustworthy Federated Unlearning for Mobile Autonomous Systems"
 excerpt: |
   <center>
-    <video width='20%' controls style='vertical-align: middle;'>
+    <video width='50%' controls style='vertical-align: middle;'>
       <source src='/files/JSAC_Demo 2.mov' type='video/mov'>
     </video>
   </center> <br>
