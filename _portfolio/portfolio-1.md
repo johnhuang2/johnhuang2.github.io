@@ -5,7 +5,7 @@ excerpt: |
      <video width='30%' controls preload='metadata' playsinline style='vertical-align: middle; margin-right: 20px;'>
       <source src='/files/JSAC_Demo.mp4' type='video/mp4'>
     </video>
-    <video width='30%' controls preload='metadata' playsinline style='vertical-align: middle;'>
+    <video width='40%' controls preload='metadata' playsinline style='vertical-align: middle;'>
       <source src='/files/RoboticArm.MP4' type='video/mp4'>
     </video>
   </center> <br>
