@@ -11,5 +11,5 @@ excerpt:
           **Total Budget:** $90K  <br>
           **Duration:** July 2026 -- August 2027
           "
-collection: portfolio
+collection: portfolio 
 ---
