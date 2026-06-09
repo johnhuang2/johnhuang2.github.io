@@ -13,5 +13,5 @@ excerpt: "<center><img src='/images/CRII-Scenario.png' width='800'></center> <br
           **Award Number:** 2348422 <br>
           **Duration:** Oct. 2024 -- Sept. 2026
           "
-collection: Current Research
+collection: portfolio
 ---
