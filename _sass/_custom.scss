@@ -1,0 +1,309 @@
+/* ==========================================================================
+   CUSTOM — clean academic restyle
+   Imported last in assets/css/main.scss so it overrides the theme defaults.
+   ========================================================================== */
+
+$navy        : $primary-color;
+$navy-light  : mix(#fff, $primary-color, 92%);
+$rule-color  : mix(#fff, $accent-color, 55%);
+
+body {
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+
+/*
+   Masthead: solid navy bar
+   ========================================================================== */
+
+.masthead {
+  background: $navy;
+  border-bottom: 3px solid $accent-color;
+
+  &__inner-wrap {
+    padding-top: 0.6em;
+    padding-bottom: 0.6em;
+  }
+}
+
+.greedy-nav {
+  background: transparent;
+
+  .visible-links a {
+    color: rgba(#fff, 0.85);
+    font-size: 0.95em;
+
+    &:hover {
+      color: #fff;
+    }
+
+    &:before {
+      background: #fff;
+      height: 2px;
+    }
+  }
+
+  .masthead__menu-item--lg a {
+    color: #fff;
+    font-family: $header-font-family;
+    font-size: 1.2em;
+    letter-spacing: 0.01em;
+  }
+
+  /* overflow menu keeps a light dropdown */
+  .hidden-links a {
+    color: $navy;
+
+    &:hover {
+      color: $navy;
+      background: $navy-light;
+    }
+  }
+
+  button {
+    background-color: transparent;
+    border-left: 1px solid rgba(#fff, 0.25);
+  }
+}
+
+.navicon,
+.navicon:before,
+.navicon:after {
+  background: #fff;
+}
+
+/*
+   Sidebar: author card
+   ========================================================================== */
+
+.sidebar .author__avatar img {
+  border-color: $rule-color;
+}
+
+@include breakpoint($large) {
+  .sidebar .author__content,
+  .sidebar .author__urls-wrapper {
+    text-align: left;
+  }
+
+  .sidebar > [itemscope] {
+    padding: 1.25em 1em;
+    background: $navy-light;
+    border-top: 3px solid $navy;
+    border-radius: 0 0 $border-radius $border-radius;
+  }
+}
+
+.sidebar .author__name {
+  font-family: $header-font-family;
+  font-size: $type-size-4;
+  color: $navy;
+}
+
+.sidebar .author__bio {
+  color: $dark-gray;
+}
+
+.author__urls a {
+  color: $text-color;
+
+  &:hover {
+    color: $accent-color;
+  }
+}
+
+/*
+   Page content
+   ========================================================================== */
+
+.page__title,
+.page__content h1,
+.page__content h2,
+.page__content h3 {
+  color: $navy;
+}
+
+.page__content {
+  h1 {
+    margin-top: 1.6em;
+    padding-bottom: 0.3em;
+    font-size: $type-size-3;
+    border-bottom: 2px solid $rule-color;
+
+    &:first-child {
+      margin-top: 0;
+    }
+  }
+
+  h2 {
+    border-bottom-color: $border-color;
+  }
+
+  a {
+    text-decoration: none;
+    border-bottom: 1px solid $rule-color;
+
+    &:hover {
+      text-decoration: none;
+      border-bottom-color: $link-color-hover;
+    }
+  }
+}
+
+/* "What's new" / archive lists */
+.archive__item-title {
+  font-family: $header-font-family;
+
+  a {
+    color: $navy;
+    text-decoration: none;
+
+    &:hover {
+      color: $accent-color;
+    }
+  }
+}
+
+.list__item {
+  border-bottom: 1px solid $border-color;
+  padding-bottom: 0.25em;
+  margin-bottom: 1em;
+}
+
+/*
+   Footer
+   ========================================================================== */
+
+.page__footer {
+  background-color: $navy-light;
+  border-top: 2px solid $rule-color;
+}
+
+/*
+   One-page home sections
+   ========================================================================== */
+
+html {
+  scroll-behavior: smooth;
+}
+
+.page__content h1[id] {
+  scroll-margin-top: 1em;
+}
+
+/* News: compact dated list, scrolls after ~8 items */
+.news-scroll {
+  max-height: 32em;
+  overflow-y: auto;
+  padding-right: 0.5em;
+  border-bottom: 1px solid $border-color;
+}
+
+.news-list,
+.teaching-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.news-item {
+  display: flex;
+  gap: 1em;
+  padding: 0.6em 0;
+  border-bottom: 1px solid $border-color;
+
+  &:last-child {
+    border-bottom: 0;
+  }
+
+  &__date {
+    flex: 0 0 5.5em;
+    color: $gray;
+    font-size: $type-size-6;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    padding-top: 0.2em;
+  }
+
+  &__body {
+    flex: 1;
+    min-width: 0;
+
+    p {
+      margin: 0.15em 0 0;
+      font-size: 0.95em;
+    }
+  }
+
+  .page__content &__label,
+  &__label {
+    font-weight: 700;
+    color: $navy;
+    border-bottom: 0;
+  }
+}
+
+/* Research projects */
+.project {
+  margin-bottom: 2em;
+  padding: 1em 1.25em;
+  border: 1px solid $border-color;
+  border-left: 4px solid $accent-color;
+  border-radius: $border-radius;
+
+  &__title {
+    margin-top: 0;
+    font-family: $header-font-family;
+    font-size: $type-size-4;
+
+    a {
+      color: $navy;
+    }
+  }
+
+  &__body {
+    video,
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+
+    p {
+      margin-bottom: 0;
+    }
+  }
+}
+
+/* Teaching */
+.teaching-item {
+  display: flex;
+  gap: 1em;
+  padding: 0.5em 0;
+  border-bottom: 1px solid $border-color;
+
+  &__terms {
+    flex: 0 0 5.5em;
+    padding-top: 0.25em;
+    color: $gray;
+    font-size: $type-size-6;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+
+    span {
+      display: block;
+    }
+  }
+
+  &__body {
+    flex: 1;
+    min-width: 0;
+  }
+
+  &__meta {
+    display: block;
+    color: $gray;
+    font-size: $type-size-6;
+  }
+}

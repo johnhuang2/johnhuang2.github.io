@@ -1,19 +1,16 @@
 # main links links
 main:
-  - title: "What's new"
-    url: /year-archive/
-    
+  - title: "News"
+    url: /#news
+
   - title: "Research"
-    url: /portfolio/
-    
+    url: /#research
+
   - title: "Teaching"
-    url: /teaching/   
-    
+    url: /#teaching
+
   - title: "Publications"
-    url: /publications/
+    url: /#publications
 
   - title: "Wireless Autonomy and Intelligent Control (WAIC) Laboratory"
     url: https://www.sdstate.edu/mccomish-electrical-engineering-computer-science/wireless-networking-mobile-computing-laboratory
-
- 
-    

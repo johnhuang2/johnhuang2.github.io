@@ -1,0 +1,7 @@
+{% include base_path %}
+{%- for post in site.portfolio -%}
+<div class="project">
+  <h3 class="project__title"><a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a></h3>
+  <div class="project__body">{{ post.excerpt | markdownify }}</div>
+</div>
+{%- endfor -%}

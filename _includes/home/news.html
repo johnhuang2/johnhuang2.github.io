@@ -1,0 +1,12 @@
+{% include base_path %}
+<ul class="news-list">
+{%- for post in site.posts -%}
+  <li class="news-item">
+    <time class="news-item__date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %Y" }}</time>
+    <div class="news-item__body">
+      <a class="news-item__label" href="{{ base_path }}{{ post.url }}">{{ post.title | strip_html }}</a>
+      {{ post.excerpt | markdownify | strip_newlines }}
+    </div>
+  </li>
+{%- endfor -%}
+</ul>

@@ -1,0 +1,18 @@
+{% include base_path %}
+<ul class="teaching-list">
+{%- for post in site.teaching reversed -%}
+  <li class="teaching-item">
+    <div class="teaching-item__terms">
+      {%- if post.terms -%}
+        {%- for term in post.terms -%}<span>{{ term }}</span>{%- endfor -%}
+      {%- else -%}
+        <span>{{ post.date | date: "%b %Y" }}</span>
+      {%- endif -%}
+    </div>
+    <div class="teaching-item__body">
+      <a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a>
+      <span class="teaching-item__meta">{{ post.type }}, {{ post.venue }}</span>
+    </div>
+  </li>
+{%- endfor -%}
+</ul>
