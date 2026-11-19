@@ -2,8 +2,8 @@
 title: "CRII: NeTS: Resource Management for Mobile Terminal Collaboration with Incomplete Information: From Theory to Practice"
 excerpt: "<center><img src='/images/CRII-Scenario.png' width='800'></center> <br>
   <center>
-    <img src='/images/testbed.jpg' width='400' style='vertical-align: middle; margin-right: 20px;'>
-    <video width='20%' controls style='vertical-align: middle;'>
+    <img src='/images/testbed.jpg' style='height: 300px; width: auto; vertical-align: middle; margin-right: 20px;'>
+    <video controls preload='metadata' style='height: 300px; width: auto; aspect-ratio: 9 / 16; vertical-align: middle;'>
       <source src='/files/CLIP_1.mp4' type='video/mp4'>
     </video>
   </center> <br>
